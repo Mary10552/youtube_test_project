@@ -1,0 +1,14 @@
+{
+  "name": "youtube",
+  "version": "0.0.0",
+  "description": "youtube",
+  "main": "server.js",
+  "author": {
+    "name": "Mary"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "youtube-node": "^1.3.0"
+  }
+}
